@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TimesheetPDF</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="reportPdf">timesheet.pdf</string>
+    <string name="tv_overview">Calisanin Zaman Cizelgesi</string>
+    <string name="tv_date">Tarih</string>
+    <string name="tv_project">Proje</string>
+    <string name="tv_description">Is Tanimi</string>
+    <string name="tv_time">Calisilan Süre</string>
+
+    <string name="btn_change_date">Tarih\ndegistir</string>
+    <string name="btn_export">PDF olustur</string>
+    <string name="btn_view_pdf">PDF göster</string>
+
+    <string name="tv_new_entry">Yeni Kayit</string>
+
+    <string name="saved">PDF olusturuldu</string>
+    <string name="view">PDF gösterilecek</string>
+    <string name="file_not_found">Dosya bulunamadi</string>
+
+    <string name="view_pdf">View PDF</string>
+</resources>
